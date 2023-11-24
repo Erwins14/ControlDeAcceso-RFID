@@ -11,16 +11,16 @@
 #include <addons/TokenHelper.h>
 
 // Configura tu red WiFi y los datos de Firebase
-#define DATABASE_URL "esp8266-ceb36-default-rtdb.firebaseio.com"
-#define API_KEY "AIzaSyAaApo7cviHp2gG-7YnhNCCz9vaUThu1x4"
-//#define WIFI_SSID "CLARO_rjNxKd"
-//#define WIFI_PASSWORD "C22DCDCC1D"
-#define WIFI_SSID "AndroidAP3A73"
-#define WIFI_PASSWORD "holahola"
+#define DATABASE_URL "xxxxxxxxxxxxxxxxxxxxxxx"
+#define API_KEY "xxxxxxxxxxxxxxxxxxxxxxxxxx"
+//#define WIFI_SSID "xxxxxxxxxxxxxxx"
+//#define WIFI_PASSWORD "xxxxxxxxxxxxxxxx"
+#define WIFI_SSID "xxxxxxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxx"
 
 /* Define las credenciales de usuario de Firebase */
-#define USER_EMAIL "erwins1414@gmail.com"
-#define USER_PASSWORD "UMG2023"
+#define USER_EMAIL "xxxxxxxxxxxx"
+#define USER_PASSWORD "xxxxxxxxxx"
 
 /* Configura el lector RFID */
 #define SS_PIN 15  // Pin de selección SPI
